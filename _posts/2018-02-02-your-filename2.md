@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Star-Wars.jpg]({{site.baseurl}}/images/Star-Wars.jpg)
 ## Новое сообщение
