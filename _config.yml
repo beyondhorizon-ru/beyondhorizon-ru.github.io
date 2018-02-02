@@ -18,6 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Prose configuration
 prose:
   siteurl: http://www.beyondhorizon.ru
+  rooturl: _posts
   media: images
 
 # Includes an icon in the footer for each username you enter
